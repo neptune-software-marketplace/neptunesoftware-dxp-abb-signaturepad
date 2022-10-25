@@ -1,7 +1,7 @@
 {
 	"id": "0b47f8a7-7496-43ed-969f-8afcd32490b5",
 	"createdAt": "2022-02-04T15:47:47.756Z",
-	"updatedAt": "2022-07-21T11:51:44.970Z",
+	"updatedAt": "2022-10-25T13:17:23.930Z",
 	"createdBy": "luuk.wosten@neptune-software.com",
 	"changedBy": "lloyd.trevarthen@neptune-software.com",
 	"objects": [
@@ -120,17 +120,17 @@
 															"value": "Anonymous Function",
 															"script": [
 																"==OBJECT STRING==",
-																" ",
-																"    var canvas = document.getElementById('signature-pad');",
-																"    signaturePad = new SignaturePad(canvas);",
-																"    canvas.style.width = '100%';",
-																"    canvas.style.height = '100%';",
-																"    canvas.width = 1024;",
-																"    canvas.height = 400;",
-																"    ",
-																"    Reset.setVisible(true);",
-																"    TaketoIMG.setVisible(true);",
-																"    oIconTabBar.setVisible(true);"
+																"",
+																"var canvas = document.getElementById('signature-pad');",
+																"signaturePad = new SignaturePad(canvas);",
+																"canvas.style.width = '500px';",
+																"canvas.style.height = '250px';",
+																"canvas.width = 500;",
+																"canvas.height = 250;",
+																"",
+																"Reset.setVisible(true);",
+																"TaketoIMG.setVisible(true);",
+																"oIconTabBar.setVisible(true);"
 															],
 															"translation": []
 														}
@@ -520,7 +520,7 @@
 			"data": []
 		}
 	],
-	"ver": "22.7.21.1351",
+	"ver": "22.10.25.1517",
 	"application": "neptbb_signaturepad",
 	"title": "UTIL",
 	"description": "Signature Pad",
