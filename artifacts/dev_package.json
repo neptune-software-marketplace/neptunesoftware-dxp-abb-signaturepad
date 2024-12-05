@@ -13,7 +13,7 @@
 	"ver": "22.8.3.111",
 	"enableCICD": true,
 	"internalReadOnly": false,
-	"oeVersion": "24.10.0-rc.3",
+	"oeVersion": "24.10.1",
 	"excludeTemplateFiles": false,
 	"roles": [],
 	"apps": [
