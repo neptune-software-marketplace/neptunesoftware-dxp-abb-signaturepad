@@ -8,7 +8,7 @@
 		"testServers": []
 	},
 	"name": "neptunesoftware-dxp-abb-signaturepad",
-	"description": null,
+	"description": "Capture signatures in BASE64 format, usable online or offline.",
 	"ver": "22.8.3.111",
 	"enableCICD": true,
 	"apps": [
