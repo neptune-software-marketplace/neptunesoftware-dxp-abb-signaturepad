@@ -10,17 +10,17 @@
 	},
 	"name": "neptunesoftware-dxp-abb-signaturepad",
 	"description": "Capture signatures in BASE64 format, usable online or offline.",
-	"ver": "24.12.16.1229",
+	"ver": "25.02.10.1536",
 	"enableCICD": true,
 	"internalReadOnly": false,
-	"oeVersion": "24.10.1",
+	"oeVersion": "24.11.0-rc.3",
 	"excludeTemplateFiles": true,
 	"roles": [],
 	"apps": [
 		{
-			"id": "0b47f8a7-7496-43ed-969f-8afcd32490b5",
-			"application": "neptbb_signaturepad",
-			"title": "UTIL",
+			"id": "93b65372-ed40-4027-94cf-689e1518bd46",
+			"application": "neptune_building_block_signaturepad",
+			"title": "Re-usable signature pad.",
 			"description": "Signature Pad"
 		}
 	],
@@ -55,5 +55,6 @@
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": [],
-	"theme_ui5": []
+	"theme_ui5": [],
+	"webapp": []
 }

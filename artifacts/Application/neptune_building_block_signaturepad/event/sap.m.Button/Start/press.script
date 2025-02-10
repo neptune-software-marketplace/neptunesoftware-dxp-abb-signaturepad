@@ -8,4 +8,4 @@ canvas.height = 250;
 
 Reset.setVisible(true);
 TaketoIMG.setVisible(true);
-oIconTabBar.setVisible(true);
+IconTabBar.setVisible(true);
