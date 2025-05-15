@@ -10,10 +10,10 @@
 	},
 	"name": "neptunesoftware-dxp-abb-signaturepad",
 	"description": "Capture signatures in BASE64 format, usable online or offline.",
-	"ver": "25.02.10.1536",
+	"ver": "25.05.15.1407",
 	"enableCICD": true,
 	"internalReadOnly": false,
-	"oeVersion": "24.11.0-rc.3",
+	"oeVersion": "24.12.0-rc.5",
 	"excludeTemplateFiles": true,
 	"roles": [],
 	"apps": [
